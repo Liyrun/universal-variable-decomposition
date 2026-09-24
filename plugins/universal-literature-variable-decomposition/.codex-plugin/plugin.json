@@ -1,0 +1,19 @@
+{
+  "name": "universal-literature-variable-decomposition",
+  "version": "0.1.0",
+  "description": "拆解研究文献中的变量、测度、数据与研究设计，并输出固定 UVD-2.2 Excel 工作簿。",
+  "author": {
+    "name": "UVD-2.2"
+  },
+  "repository": "https://github.com/Liyrun/universal-variable-decomposition",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Universal Literature Variable Decomposition",
+    "shortDescription": "按 UVD-2.2 Schema 拆解文献变量与测度。",
+    "longDescription": "提供跨学科文献变量拆解流程，区分构念、操作化、证据与推断，并随附固定 Excel 模板。",
+    "developerName": "UVD-2.2",
+    "category": "Research",
+    "capabilities": [],
+    "defaultPrompt": "按 UVD-2.2 拆解这些文献。"
+  }
+}
